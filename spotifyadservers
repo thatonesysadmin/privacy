@@ -1,4 +1,4 @@
-a-match.com
+127.0.0.1 a-match.com
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 www.googleadservices.com
 127.0.0.1 open.spotify.com
@@ -8,7 +8,7 @@ a-match.com
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 audio2.spotify.com
-127.0.0.1 http://audio2.spotify.com
+127.0.0.1 audio2.spotify.com
 127.0.0.1 www.audio2.spotify.com
 127.0.0.1 www.omaze.com
 127.0.0.1 omaze.com
